@@ -1,0 +1,7 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need access to your location to track signal strength and location.</string>
+
+<key>UIBackgroundModes</key>
+<array>
+    <string>location</string>
+</array>
