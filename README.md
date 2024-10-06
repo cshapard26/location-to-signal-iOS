@@ -1,2 +1,2 @@
-Location to Signal Strenght iOS App
+Location to Signal Strength iOS App
 ---
